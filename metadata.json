@@ -1,6 +1,0 @@
-{
-  "name": "IELTS Collocation Leitner Box",
-  "description": "Learn high-frequency IELTS collocations using a professional 5-stage Leitner Box system.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
